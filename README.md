@@ -21,6 +21,7 @@ I'm a software engineer based in Berlin, Germany.
 | [kata-aws-imgproc-pipeline](https://github.com/deeplook/kata-aws-imgproc-pipeline) | Progressive AWS kata for building a serverless AI semantic photo gallery pipeline with a decent frontend on AWS |
 | [obsidian-asciinema-player](https://github.com/deeplook/obsidian-asciinema-player) | Asciinema player plugin for Obsidian to display asciicasts inside notes |
 | [obsidian-sparklines](https://github.com/deeplook/obsidian-sparklines) | Sparklines plugin to render sparklines in Obsidian by converting inline code blocks to SVG |
+| [pyspark-primer](https://github.com/deeplook/pyspark-primer) | Runnable PySpark examples for learning practical DataFrame and SQL workflows |
 | [skills](https://github.com/deeplook/skills) | Reusable agent skills for Claude, Codex, etc., with validation tooling and scaffolded skill definitions |
 | [sparklines](https://github.com/deeplook/sparklines) | Text-based sparklines for the command line, à la Edward Tufte |
 | [streamlit-helpers](https://github.com/deeplook/streamlit-helpers) | Streamlit interface prototype for a collection of coding helpers |
