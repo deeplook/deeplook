@@ -19,6 +19,7 @@ I'm a software engineer based in Berlin, Germany.
 | [grokko](https://github.com/deeplook/grokko) | CLI to access Grok conversations one by one or in bulk |
 | [ipyrest](https://github.com/deeplook/ipyrest) | Jupyter widget for exploring REST APIs |
 | [kata-aws-imgproc-pipeline](https://github.com/deeplook/kata-aws-imgproc-pipeline) | Progressive AWS kata for building a serverless AI semantic photo gallery pipeline with a decent frontend on AWS |
+| [nfind](https://github.com/deeplook/nfind) | Find files by describing them in natural language, with the custom generated filter sandboxed in Docker |
 | [obsidian-asciinema-player](https://github.com/deeplook/obsidian-asciinema-player) | Asciinema player plugin for Obsidian to display asciicasts inside notes |
 | [obsidian-sparklines](https://github.com/deeplook/obsidian-sparklines) | Sparklines plugin to render sparklines in Obsidian by converting inline code blocks to SVG |
 | [pyspark-primer](https://github.com/deeplook/pyspark-primer) | Runnable PySpark examples for learning practical DataFrame and SQL workflows |
