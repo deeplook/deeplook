@@ -19,10 +19,12 @@ I'm a software engineer based in Berlin, Germany.
 | 👉 [grokko](https://github.com/deeplook/grokko) | CLI to access Grok conversations one by one or in bulk |
 | [ipyrest](https://github.com/deeplook/ipyrest) | Jupyter widget for exploring REST APIs |
 | 👉 [kata-aws-imgproc-pipeline](https://github.com/deeplook/kata-aws-imgproc-pipeline) | Progressive AWS kata for building a serverless AI semantic photo gallery pipeline with a decent frontend on AWS |
+| 👉 [nats-primer](https://github.com/deeplook/nats-primer) | Runnable NATS examples, from core pub/sub to JetStream persistence, clustering, TLS, and microservices |
 | 👉 [nfind](https://github.com/deeplook/nfind) | Find files by describing them in natural language, with the custom generated filter sandboxed in Docker |
 | [obsidian-asciinema-player](https://github.com/deeplook/obsidian-asciinema-player) | Asciinema player plugin for Obsidian to display asciicasts inside notes |
 | [obsidian-sparklines](https://github.com/deeplook/obsidian-sparklines) | Sparklines plugin to render sparklines in Obsidian by converting inline code blocks to SVG |
 | 👉 [pyspark-primer](https://github.com/deeplook/pyspark-primer) | Runnable PySpark examples for learning practical DataFrame and SQL workflows |
+| 👉 [ray-primer](https://github.com/deeplook/ray-primer) | Runnable Ray examples for learning distributed Python, from basics to Ray Data, Serve, Train, and Tune |
 | 👉 [skills](https://github.com/deeplook/skills) | Reusable agent skills for Claude, Codex, etc., with validation tooling and scaffolded skill definitions |
 | 👉 [sparklines](https://github.com/deeplook/sparklines) | Text-based sparklines for the command line, à la Edward Tufte |
 | [streamlit-helpers](https://github.com/deeplook/streamlit-helpers) | Streamlit interface prototype for a collection of coding helpers |
