@@ -13,7 +13,7 @@ I'm a software engineer based in Berlin, Germany.
 
 | Project | Description |
 |---------|-------------|
-| 👉 [ai-image-recognition-terraform](https://github.com/deeplook/ai-image-recognition-terraform) | Serverless AI Image Recognition App Using AWS Bedrock, Rekognition & Terraform |
+| [ai-image-recognition-terraform](https://github.com/deeplook/ai-image-recognition-terraform) | Serverless AI Image Recognition App Using AWS Bedrock, Rekognition & Terraform |
 | [asciinema-player](https://github.com/deeplook/asciinema-player) | Fork of the official Asciinema player with inline-image support added |
 | 👉 [dirplot](https://github.com/deeplook/dirplot) | Directory treemaps across local, SSH, S3, git, Docker, and more |
 | 👉 [grokko](https://github.com/deeplook/grokko) | CLI to access Grok conversations one by one or in bulk |
